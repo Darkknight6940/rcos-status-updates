@@ -1,22 +1,12 @@
 ## Last Week's Accomplishments
-
-> In this section, you can write about what you accomplished in the previous week.
-
-> Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
+This week I sent a email to Prof. Turner to talk about applying the servers in RPI to support our web. He recommend that we should develop on a Docker instance. That way, once we have something working locally, RPI can easily migrate it to the web once you are ready for public testing. Here's the link of the example :https://github.com/rcos/docker-examples So I kept learning PHP and how to develop a Docker instance
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> Examples: New Bugs to be fixed, Design choices
-
+Keep learning PHP and how to develop a Docker instance,talk to our coordinators, particularly Alex or Adrian for information.
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> Examples: Confusion on how to approach a problem, Limited experience with a specific technology
-
+Just understanding of PHP
 ## Notes
 
-> This is an optional section for any sort of information that does not fall under any of the other categories.
+
