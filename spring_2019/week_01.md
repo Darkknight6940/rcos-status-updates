@@ -1,9 +1,9 @@
 ## Last Week's Accomplishments
-Borrow the VR camera.Keep working on the PHP.Go to the Hackcooper Hackthon . 
+Set the environment.Go through the old code.
 
 ## This Week's Plan
+learning PHP.Talk to the Living and Learning center to get the menu.
 
-Keep learning PHP and how to develop a Docker instance,talk to our coordinators, particularly Alex or Adrian for information.Use the camera achieve the image of the store.
 ## Anything Blocking?
 
 Just understanding of PHP
